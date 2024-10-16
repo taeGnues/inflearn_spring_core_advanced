@@ -1,4 +1,4 @@
-package com.kimyeonghan.advanced.trace.strategy.code.strategy;
+package com.kimyeonghan.advanced.trace.strategy;
 
 import com.kimyeonghan.advanced.trace.strategy.code.template.Callback;
 import com.kimyeonghan.advanced.trace.strategy.code.template.TimeLogTemplate;
